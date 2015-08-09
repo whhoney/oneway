@@ -1,0 +1,9 @@
+{
+    "path" : "~/oneway",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
