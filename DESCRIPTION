@@ -1,0 +1,10 @@
+Package: oneway
+Type: Package
+Title: Oneway Anova Table and Fisher LSD Test
+Version: 0.1
+Date: 2015-08-07
+Author: Hong Wang
+Maintainer: Hong Wang <howang@mix.wvu.edu>
+Description: Oneway Anova Table and Fisher LSD Test
+License: WVU
+LazyData: TRUE
